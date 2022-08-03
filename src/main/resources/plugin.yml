@@ -1,0 +1,6 @@
+name: Rannksystem
+version: '${project.version}'
+main: at.late.rannksystem.Main
+commands:
+  setrank:
+    permission: op
